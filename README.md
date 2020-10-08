@@ -6,7 +6,7 @@ to run this file you shiuld have a installed wampserver.
       -> go to the folder in www you created 
       -> run the file this file is 
       
-#how this file is created 
+##how this file is created 
 
 the form is created using html css and php
 
