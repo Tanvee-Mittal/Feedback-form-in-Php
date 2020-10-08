@@ -1,0 +1,75 @@
+body{
+    background-image: url(e01dd2881e41e3da21a9bf7b318f2f54.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#feed{
+    left: 50%;
+    top: 50%;
+    margin-left: -15%;
+    position: absolute;
+    margin-top: -20%;
+
+}
+
+form{
+    margin: 0 auto;
+    width: 400px;
+    padding-top: 40px;
+    color: black;
+    position: relative;
+    
+}
+
+input, textarea{
+    width: 400px;  
+    margin: 5px; 
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+    font-family: 'Sniglet', cursive;
+    font-size: 1em;
+    align-self: center;
+    overflow: hidden; /* Hide scrollbars */
+
+}
+input:focus, textarea:focus{
+    border: solid 3px #0f3057; 
+    overflow: hidden; /* Hide scrollbars */
+ 
+}
+
+input[type="submit"]{
+    background:  #4CAF50;
+    text-decoration-color: cornsilk;
+    
+    
+}
+input[type="submit"]:hover{
+    background-color: #C7D4D3;
+   
+}
+
+
+input[type="reset"]{
+    background:  #4CAF50;
+    text-decoration-color: cornsilk;
+}
+input[type="reset"]:hover{
+    background-color: #C7D4D3;
+}
+
+
+h1 { color: #7c795d;
+    font-family: 'Trocchi', serif; 
+    font-size: 30px; 
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0; 
+    padding: 1em;
+    text-align: center;
+    
+}
